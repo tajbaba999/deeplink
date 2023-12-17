@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790025697382",
+    "project_id": "deeplink-ede9c",
+    "storage_bucket": "deeplink-ede9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790025697382:android:3ecf942123eed9684395a7",
+        "android_client_info": {
+          "package_name": "com.deeplinks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzndQETwS5Ja7cPxfPmAGn94s_gAp9wKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
